@@ -1,0 +1,46 @@
+body{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px; 
+    border: 2px solid black;
+    text-align: center;
+}
+li{
+    list-style: none;
+}
+#paragrah{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right:75%;
+    
+
+}
+input{
+    padding: 10px;
+    width: 90%;
+    margin-left: 10px;
+    padding: 10px; 
+}
+textarea{
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    padding: 10px; 
+}
+#btn{
+    margin-left: 80%;
+    margin-top: 10px;
+    background-color:blue;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+#theTimeLine{
+    border: 2px solid black;
+    margin: 0px;
+    height: 30px;
+}
+.fullAndDate{
+    font-weight: bold;
+}
